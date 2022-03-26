@@ -1,6 +1,5 @@
 %-----------------Details--------------------------%
 % Name: Or Spiegel
-% ID: 318720067
 %----matrix of 10000 vectors from length of 50-----%
 x = rand(50,10000);
 y = prod(x);
